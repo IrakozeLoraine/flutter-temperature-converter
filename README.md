@@ -87,6 +87,7 @@ lib/
 │   ├── result_card.dart          # Conversion result display
 │   ├── history_section.dart      # Conversion history list
 │   └── conversion_type_selector.dart  # Radio button selector (Fahrenheit/Celsius)
+|   └── clear_history.dart     # Clear history confirmation dialog
 └── utils/                        # Utility functions and helpers
     ├── validators.dart           # Input validation logic
     └── animations.dart          # Animation helper functions
